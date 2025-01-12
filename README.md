@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a **Tech Enthusiast**, **Cybersecurity Learner**, and 
 ## 📫 How to reach me
 
 - 📧 Email: [Vaibhav.Datta@student.ufv.ca](mailto:Vaibhav.Datta@student.ufv.ca)
-- 💼 LinkedIn: [My LinkedIn Profile](#)
+- 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/vaibhavdatta)
 - 🖥️ Portfolio: [Coming Soon!]
 - 📍 Location: Abbotsford, BC
 
